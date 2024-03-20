@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "draft-js": "^0.11.7",
+    "draft.js": "^0.2.0",
+    "firebase": "^10.9.0",
+    "immutable": "^5.0.0-beta.5",
+    "react-draft-wysiwyg": "^1.15.0"
+  }
+}
